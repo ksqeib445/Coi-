@@ -1,0 +1,5 @@
+name: CoreProtect-Clear
+main: fun.ksmc.extend.coi.Main
+version: 0.1
+author: ksqeib
+depend: [CoreProtect]
